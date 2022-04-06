@@ -4,4 +4,4 @@ I am graduating from the University of Saint Thomas with a Bachelors Degree in C
 
 
 My resume includes recent work experience and notable projects:
-- [Link](./Resume.pdf) 
+- [Resume](./Resume.pdf) 
