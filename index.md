@@ -17,4 +17,4 @@ My resume includes recent work experience and notable projects:
 
 
 
-- [Video]
+[Video]
