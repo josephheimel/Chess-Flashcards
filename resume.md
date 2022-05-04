@@ -1,1 +1,1 @@
-<embed src="https://github.com/josephheimel/personal-webpage/files/Resume.pdf" type="application/pdf" />
+<embed src="https://github.com/josephheimel/personal-webpage/Resume.pdf" type="application/pdf" />
