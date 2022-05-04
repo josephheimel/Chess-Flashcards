@@ -11,7 +11,7 @@ I am graduating from the University of Saint Thomas with a Bachelors Degree in C
 
 
 My resume includes recent work experience and notable projects:
-- [Resume](pages/resume.md)
-- [Project 1](pages/project_1.md)
-- [Project 2](pages/project_2.md)
-- [Project 3](pages/project_3.md)
+- [Resume](https://github.com/josephheimel/personal-webpage/blob/gh-pages/pages/resume.md)
+- [Project 1](https://github.com/josephheimel/personal-webpage/blob/gh-pages/pages/project_1.md)
+- [Project 2](https://github.com/josephheimel/personal-webpage/blob/gh-pages/pages/project_2.md)
+- [Project 3](https://github.com/josephheimel/personal-webpage/blob/gh-pages/pages/project_3.md)
