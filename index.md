@@ -12,6 +12,6 @@ I am graduating from the University of Saint Thomas with a Bachelors Degree in C
 
 My resume includes recent work experience and notable projects:
 - [Resume](./Resume.pdf)
-- [Project 1](./project_1.md)
-- [Project 2](./project_2.md)
-- [Project 3](./project_3.md)
+- [Shapes and Curves](./shapes_and_curves.md)
+- [3D Projections](./3d_projections.md)
+- [Hermes and Apollo](./hermes_and_apollo.md)
