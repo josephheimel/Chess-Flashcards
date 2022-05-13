@@ -10,9 +10,8 @@ I am graduating from the University of Saint Thomas with a Bachelors Degree in C
 
 
 
-My resume includes recent work experience and notable projects:
 - [Resume](./Resume.pdf):
-      My work experience, education, and skills.
+      My work experience, education, projects, and skills.
 - [Reflection](./Reflection.pdf):
       An essay on projects reflecting St. Thomas's mission.
 - [Shapes and Curves](./shapes_and_curves.md):
