@@ -12,8 +12,6 @@ I am graduating from the University of Saint Thomas with a Bachelors Degree in C
 
 - [Resume](./Resume.pdf):
       My work experience, education, projects, and skills.
-- [Reflection](./Reflection.pdf):
-      An essay on projects reflecting St. Thomas's mission.
 - [Shapes and Curves](./shapes_and_curves.md):
       A demonstration of basic line drawing principles.
 - [3D Projections](./3d_projections.md):
