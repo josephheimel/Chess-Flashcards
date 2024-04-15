@@ -1,11 +1,16 @@
 ### Chess!
 
 
-[Here is the file with all the flashcards.](./Introduction.mp4)
+[Here is the file with all the flashcards.](https://drive.google.com/file/d/1rCxw9LsS8DhltIu2LpVV7iJoNtSu1sl7/view?usp=drivesdk)
 
 Download Anki, AnkiMobile on iPhone, AnkiDroid on Android.
 Select import -> import collection, select the collection file.
+![import](./import.JPG)
+![collections](./collections.JPG)
 
+_
+_
+_
 
 Start with Basics deck. Then when you are comfortable with that, move onto the Endgames deck and one or two openings.
 
@@ -18,6 +23,11 @@ For the Sicilian lines, there are different options that you can choose as black
 
 For all lines, you can play these openings as white or as black, so if you find an opponent that plays one of these openings, you will know all the right moves to make. For this reason, even if you have openings you like, try to learn all of them.
 
+_
+_
+_
+
+
 In order of complexity, the openings included are:
 - London (white)
 - Dutch (Black (White plays d4))
@@ -26,6 +36,9 @@ In order of complexity, the openings included are:
 - Blackmar-Diemer (White)
 - Sicilian (Black)
 
+_
+_
+_
 
 ###Sources/Book PDFs
 Here are the chess books I used to get these lines. Use these as reference if you want to understand anything better. Reach out if you need help finding anything or with questions in general!
@@ -33,3 +46,4 @@ Here are the chess books I used to get these lines. Use these as reference if yo
 - [Sicilian (coming soon)](./Sicilian.pdf)
 - [Sicilian Najdorf (coming soon)](./Najdorf.pdf)
 - [Blackmar-Diemer (coming soon)](./Blackmar-Diemer.pdf)
+- London, Vienna, Caro Kann, and Dutch are all from GothamChess' course website [chess.ly](chess.ly). They all have free samples and I have the Caro Kann course I can share. He also has lots of great stuff on YouTube.
