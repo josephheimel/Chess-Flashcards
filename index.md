@@ -22,10 +22,12 @@ For the Endgames, you only need to memorize the next move and whether it is a wi
 
 For openings, you are given an opponent's move and you need to remember what your next move is. These lines account for the best moves that your opponent can make and should help you handle any situation in the opening phase. Generally, but not always, if someone plays a move that is not in these opening lines that move is a mistake and you know, for sure, that you have an advantage. Try to figure out why their move is a mistake.
 
-For the Sicilian lines, there are different options that you can choose as black between moves 4 and 6 ish. My personal recommendation is the Najdorf -> Main line.
+For the Sicilian lines, there are different options that you can choose as black between moves 4 and 6 ish. These will have two images on the front side, your choice and then whites response. My personal recommendation is the Najdorf -> Main line.
 
 
 For all lines, you can play these openings as white or as black, so if you find an opponent that plays one of these openings, you will know all the right moves to make. For this reason, even if you have openings you like, try to learn all of them.
+
+The benefit of these opening lines is that you can get as far as 15 moves into the game knowing that you have not made any mistakes and that your position is better.
 
 _
 _
@@ -33,12 +35,12 @@ _
 
 
 In order of complexity, the openings included are:
-- London (white)
+- London (white, starts d4)
 - Dutch (Black (White plays d4))
 - Caro Kann (Black (White plays e4))
-- Vienna (White)
-- Blackmar-Diemer (White)
-- Sicilian (Black)
+- Vienna (White, starts e4)
+- Blackmar-Diemer (White, starts d4)
+- Sicilian (Black (White plays e4))
 
 _
 _
