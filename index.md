@@ -12,6 +12,12 @@ _
 _
 _
 
+Download the Chess.com app if you haven't already and add me :) my username is craeatee
+
+_
+_
+_
+
 Start with Basics deck. Then when you are comfortable with that, move onto the Endgames deck and one or two openings.
 
 For the Endgames, you only need to memorize the next move and whether it is a win or a draw. Once you actually find one of these endgames in a real game, come back and learn how to win it.
