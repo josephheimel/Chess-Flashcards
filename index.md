@@ -12,7 +12,7 @@ _
 _
 _
 
-Download the Chess.com app if you haven't already and add me :) my username is craeatee
+Download the Chess.com app if you haven't already.
 
 _
 _
