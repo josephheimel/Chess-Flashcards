@@ -5,8 +5,8 @@
 
 Download Anki, AnkiMobile on iPhone, AnkiDroid on Android.
 Select import -> import collection, select the collection file.
-![import](./import.JPG)
-![collections](./collections.JPG)
+![import](./import.jpg)
+![collections](./collections.jpg)
 
 _
 _
@@ -40,7 +40,7 @@ _
 _
 _
 
-###Sources/Book PDFs
+Sources/Book PDFs
 Here are the chess books I used to get these lines. Use these as reference if you want to understand anything better. Reach out if you need help finding anything or with questions in general!
 - [Endgames (coming soon)](./Endgames.pdf)
 - [Sicilian (coming soon)](./Sicilian.pdf)
