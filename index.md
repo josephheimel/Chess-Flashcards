@@ -4,9 +4,7 @@
 [Here is the file with all the flashcards.](https://drive.google.com/file/d/1rCxw9LsS8DhltIu2LpVV7iJoNtSu1sl7/view?usp=drivesdk)
 
 Download Anki, AnkiMobile on iPhone, AnkiDroid on Android.
-Select import -> import collection, select the collection file.
-![import](./import.jpg)
-![collections](./collections.jpg)
+Select the option drop down in the top right, import -> collection package .colpkg, select the collection file.
 
 _
 _
