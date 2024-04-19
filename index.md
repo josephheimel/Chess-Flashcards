@@ -3,8 +3,14 @@
 
 [Here is the file with all the flashcards.](https://drive.google.com/file/d/1rCxw9LsS8DhltIu2LpVV7iJoNtSu1sl7/view?usp=drivesdk)
 
-Download Anki, AnkiMobile on iPhone, AnkiDroid on Android.
-Select the option drop down in the top right, import -> collection package .colpkg, select the collection file.
+ - download the desktop version: https://apps.ankiweb.net/
+ - create an account and log in
+ - Select the option drop down in the top right, import -> collection package .colpkg, select the collection file.
+ - sync cards with account
+ - view in web browser version: https://ankiweb.net/
+
+
+On Android, AnkiDroid is a free option as well, sorry iPhone.
 
 _
 _
