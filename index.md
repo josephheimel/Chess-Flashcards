@@ -1,7 +1,7 @@
 ### Chess!
 
 
-[Here is the file with all the flashcards.](https://drive.google.com/file/d/1rCxw9LsS8DhltIu2LpVV7iJoNtSu1sl7/view?usp=drivesdk)
+[Here is the file with all the flashcards.](https://drive.google.com/file/d/1rCxw9LsS8DhltIu2LpVV7iJoNtSu1sl7/view?usp=sharing)
 
  - download the desktop version: https://apps.ankiweb.net/
  - create an account and log in
@@ -16,7 +16,7 @@ _
 _
 _
 
-Download the Chess.com app if you haven't already.
+Download the Chess.com app if you haven't already. You can set up positions or walk through lines by going to Learn -> Analysis
 
 _
 _
@@ -54,8 +54,8 @@ _
 
 Sources/Book PDFs
 Here are the chess books I used to get these lines. Use these as reference if you want to understand anything better. Reach out if you need help finding anything or with questions in general!
-- [Endgames (coming soon)](./Endgames.pdf)
-- [Sicilian (coming soon)](./Sicilian.pdf)
-- [Sicilian Najdorf (coming soon)](./Najdorf.pdf)
-- [Blackmar-Diemer (coming soon)](./Blackmar-Diemer.pdf)
+- [100 Endgames You Must Know](https://drive.google.com/file/d/1KpTR3p1jnNtMEoFWMSmpmTL37t8fFBSN/view?usp=sharing)
+- [starting out: the sicilian](https://drive.google.com/file/d/1p879gwDD3bsBBFDfyG3fcnBwqDWhABMQ/view?usp=sharing)
+- [Play the Najdorf Sicilian](https://drive.google.com/file/d/1f5eM_7IlhMP34OFYSRR3_aLYqb3xhsn6/view?usp=sharing)
+- [the Blackmar-Diemer gambit](https://drive.google.com/file/d/19YQ5vQaKjG6-rzfue_DnOElXxLyG8gtt/view?usp=sharing)
 - London, Vienna, Caro Kann, and Dutch are all from GothamChess' course website [chess.ly](chess.ly). They all have free samples and I have the Caro Kann course I can share. He also has lots of great stuff on YouTube.
