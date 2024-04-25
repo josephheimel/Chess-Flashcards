@@ -1,7 +1,7 @@
 ### Chess!
 
 
-[Here is the file with all the flashcards.](https://drive.google.com/file/d/1rCxw9LsS8DhltIu2LpVV7iJoNtSu1sl7/view?usp=sharing)
+[Here is the file with all the flashcards.](https://drive.google.com/file/d/1Fx0eYd-LrRZDWJ_WmWmSwu79QYB1Rn-1/view?usp=drivesdk)
 
  - download the desktop version: https://apps.ankiweb.net/
  - create an account and log in
