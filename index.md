@@ -17,8 +17,8 @@ _
 _
 
 Download the Chess.com app if you haven't already. You can set up positions or walk through lines by going to Learn -> Analysis
-android: https://www.chess.com/play/apps/android
-iPhone: https://www.chess.com/play/apps/ios
+[android](https://www.chess.com/play/apps/android)
+[iPhone](https://www.chess.com/play/apps/ios)
 _
 _
 _
