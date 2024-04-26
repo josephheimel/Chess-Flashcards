@@ -3,11 +3,11 @@
 
 [Here is the file with all the flashcards.](https://drive.google.com/file/d/1Fx0eYd-LrRZDWJ_WmWmSwu79QYB1Rn-1/view?usp=drivesdk)
 
- - download the desktop version: https://apps.ankiweb.net/
+ - download the desktop version: [Anki Downloads](https://apps.ankiweb.net/)
  - create an account and log in
  - Select the option drop down in the top right, import -> collection package .colpkg, select the collection file.
  - sync cards with account
- - view in web browser version: https://ankiweb.net/
+ - view in web browser version: [https://ankiweb.net/](https://ankiweb.net/)
 
 
 On Android, AnkiDroid is a free option as well, sorry iPhone.
